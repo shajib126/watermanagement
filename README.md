@@ -1,6 +1,6 @@
 - [x] configure and setup backend 
 - [x] create server
-- [] create User
+- [x] create User
 - [] Create Order
 - [] Create Category
 - [] Manage Order
